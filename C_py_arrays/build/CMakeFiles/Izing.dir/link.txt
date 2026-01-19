@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Izing.dir/test.cpp.o CMakeFiles/Izing.dir/main.cpp.o -o Izing  -lm -lgsl -lgslcblas 

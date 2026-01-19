@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="polymer"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymer.so">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/polymer.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ypolyach/anaconda3/include"/>
+					<Add directory="/home/ypolyach/anaconda3/include/python3.8"/>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymer.so"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymer.so/fast">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/polymer.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ypolyach/anaconda3/include"/>
+					<Add directory="/home/ypolyach/anaconda3/include/python3.8"/>
+					<Add directory="/usr/include/python3.6m"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymer.so/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymer">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/polymer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ypolyach/anaconda3/include"/>
+					<Add directory="/home/ypolyach/anaconda3/include/python3.8"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymer/fast">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/polymer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ypolyach/anaconda3/include"/>
+					<Add directory="/home/ypolyach/anaconda3/include/python3.8"/>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/polymer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/main.cpp">
+			<Option target="polymer"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/polymer.cpp">
+			<Option target="polymer.so"/>
+			<Option target="polymer"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/polymer.h">
+			<Option target="polymer.so"/>
+			<Option target="polymer"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/polymer_py.cpp">
+			<Option target="polymer.so"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/../../../../../../usr/lib/cmake/pybind11/FindPythonLibsNew.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/../../../../../../usr/lib/cmake/pybind11/pybind11Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/../../../../../../usr/lib/cmake/pybind11/pybind11ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/../../../../../../usr/lib/cmake/pybind11/pybind11Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/polymer/../../../../../../usr/lib/cmake/pybind11/pybind11Tools.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\lib\cmake\pybind11\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

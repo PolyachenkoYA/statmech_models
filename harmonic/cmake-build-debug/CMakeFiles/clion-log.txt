@@ -1,0 +1,4 @@
+/home/ypolyach/clion-2020.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ypolyach/!Norman/courses/monte_carlo/harmonic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ypolyach/!Norman/courses/monte_carlo/harmonic/cmake-build-debug

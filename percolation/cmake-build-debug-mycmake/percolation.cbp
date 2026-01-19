@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="percolation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="percolation">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/percolation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 percolation"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="percolation/fast">
+				<Option output="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/percolation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/10"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/include/c++/10/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/10/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 percolation/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/percolation/main.cpp">
+			<Option target="percolation"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/percolation/percol.cpp">
+			<Option target="percolation"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/percolation/percol.hpp">
+			<Option target="percolation"/>
+		</Unit>
+		<Unit filename="/home/ypolyach/!Norman/courses/monte_carlo/percolation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o test.cpython-38-x86_64-linux-gnu.so CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/py.cpp.o  -lm -lgsl -lgslcblas 

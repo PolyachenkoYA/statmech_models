@@ -1,0 +1,4 @@
+/home/ypolyach/!Norman/courses/monte_carlo/percolation_py/build/CMakeFiles/rebuild_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/percolation_py/build/CMakeFiles/edit_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/percolation_py/build/CMakeFiles/percol.dir
+/home/ypolyach/!Norman/courses/monte_carlo/percolation_py/build/CMakeFiles/percolation.dir

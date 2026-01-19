@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/percolation.dir/percol.cpp.o CMakeFiles/percolation.dir/test.cpp.o -o percolation  -lm -lgsl -lgslcblas 

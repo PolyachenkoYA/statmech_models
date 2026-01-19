@@ -1,0 +1,4 @@
+/home/ypolyach/!Norman/courses/monte_carlo/cython_quad/build/CMakeFiles/rebuild_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/cython_quad/build/CMakeFiles/edit_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/cython_quad/build/CMakeFiles/quad.dir
+/home/ypolyach/!Norman/courses/monte_carlo/cython_quad/build/CMakeFiles/quadratic.dir

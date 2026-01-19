@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o quad.cpython-38-x86_64-linux-gnu.so CMakeFiles/quad.dir/quadpb.cpp.o CMakeFiles/quad.dir/quadratic.cpp.o  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sqrt.dir/main.c.o CMakeFiles/sqrt.dir/lib/func.c.o -o sqrt  -lm -lc 

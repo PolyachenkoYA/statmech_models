@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -fPIC -Wall -Wextra -g -shared  -o harmonic.so CMakeFiles/harmonic.so.dir/harmonic.cpp.o CMakeFiles/harmonic.so.dir/harmonic_py.cpp.o   -L/home/ypolyach/anaconda3/lib  -Wl,-rpath,/home/ypolyach/anaconda3/lib -lm -lgsl -lgslcblas -lcrypt -lpthread -ldl -lutil -lrt -lpython3.8 

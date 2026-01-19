@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/quadratic.dir/quadratic.cpp.o CMakeFiles/quadratic.dir/test.cpp.o -o quadratic  -lm 

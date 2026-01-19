@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -Wall -Wextra -g CMakeFiles/polymer.dir/main.cpp.o CMakeFiles/polymer.dir/polymer.cpp.o -o polymer   -L/home/ypolyach/anaconda3/lib  -Wl,-rpath,/home/ypolyach/anaconda3/lib -lm -lgsl -lgslcblas -lcrypt -lpthread -ldl -lutil -lrt -lpython3.8 

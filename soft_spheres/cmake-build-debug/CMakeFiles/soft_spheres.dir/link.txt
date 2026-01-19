@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -Wall -Wextra -g CMakeFiles/soft_spheres.dir/main.cpp.o CMakeFiles/soft_spheres.dir/soft_spheres.cpp.o CMakeFiles/soft_spheres.dir/soft_spheres_py.cpp.o -o soft_spheres   -L/home/ypolyach/anaconda3/lib  -Wl,-rpath,/home/ypolyach/anaconda3/lib -lm -lgsl -lgslcblas -lcrypt -lpthread -ldl -lutil -lrt -lpython3.8 

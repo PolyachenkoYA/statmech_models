@@ -1,0 +1,3 @@
+/home/ypolyach/!Norman/courses/MonteCarlo/compilation/sqrt/build/CMakeFiles/rebuild_cache.dir
+/home/ypolyach/!Norman/courses/MonteCarlo/compilation/sqrt/build/CMakeFiles/edit_cache.dir
+/home/ypolyach/!Norman/courses/MonteCarlo/compilation/sqrt/build/CMakeFiles/sqrt.dir

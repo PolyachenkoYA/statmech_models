@@ -1,0 +1,4 @@
+/home/ypolyach/!Norman/courses/monte_carlo/C_py_arrays/build/CMakeFiles/rebuild_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/C_py_arrays/build/CMakeFiles/edit_cache.dir
+/home/ypolyach/!Norman/courses/monte_carlo/C_py_arrays/build/CMakeFiles/test.dir
+/home/ypolyach/!Norman/courses/monte_carlo/C_py_arrays/build/CMakeFiles/Izing.dir

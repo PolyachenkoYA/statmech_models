@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(sqrt LANGUAGES C)
+set(CMAKE_CXX_STANDARD 14)
+include_directories(./include)
+add_executable(sqrt main.c lib/func.c include/func.h)
+target_link_libraries(sqrt m c)

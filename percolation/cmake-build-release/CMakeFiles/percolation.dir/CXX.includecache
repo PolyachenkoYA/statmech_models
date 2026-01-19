@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ypolyach/!Norman/courses/monte_carlo/percolation/main.cpp
+stdio.h
+-
+stdlib.h
+-
+percol.hpp
+/home/ypolyach/!Norman/courses/monte_carlo/percolation/percol.hpp
+
+/home/ypolyach/!Norman/courses/monte_carlo/percolation/percol.hpp
+time.h
+-
+gsl/gsl_rng.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o percol.cpython-38-x86_64-linux-gnu.so CMakeFiles/percol.dir/percol_pb.cpp.o CMakeFiles/percol.dir/percol.cpp.o  -lm -lgsl -lgslcblas 

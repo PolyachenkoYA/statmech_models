@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -Wall -Wextra CMakeFiles/percolation.dir/main.cpp.o CMakeFiles/percolation.dir/percol.cpp.o -o percolation  -lm -lgsl -lgslcblas 

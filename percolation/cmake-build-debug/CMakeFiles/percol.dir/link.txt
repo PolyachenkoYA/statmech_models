@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -fPIC -g -shared  -o percol.cpython-36m-x86_64-linux-gnu.so CMakeFiles/percol.dir/prob_pb.cpp.o CMakeFiles/percol.dir/prob_for_p.cpp.o  -lm -lgsl -lgslcblas 

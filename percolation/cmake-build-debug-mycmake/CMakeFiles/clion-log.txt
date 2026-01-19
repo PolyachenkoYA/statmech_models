@@ -1,0 +1,4 @@
+/home/ypolyach/.local/bin/cmake -DCMAKE_C_COMPILER=/usr/bin/gcc-10 -DCMAKE_CXX_COMPILER=/usr/bin/g++-10 -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/ypolyach/!Norman/courses/monte_carlo/percolation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ypolyach/!Norman/courses/monte_carlo/percolation/cmake-build-debug-mycmake
