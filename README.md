@@ -1,2 +1,2 @@
 # statmech_models
-A number of statmech problems implemented during a grad course
+A number of statmech problems/systems implemented via MC simulations during a grad course
